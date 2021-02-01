@@ -3,6 +3,7 @@ This project is for Linux Elvation
 
 #### Vulnerable list
 #### #CVE　　#Description　　#Kernels  
+- [CVE-2021-3156](./2021/CVE-2021-3156)[Sudo 1.8.2 - 1.8.31p2 Sudo 1.9.0 - 1.9.5p1]
 - [CVE-2020-9470](./2020/CVE-2020-9470)[Wing FTP Server 6.2.5 - Privilege Escalation]
 - [CVE-2020-8635](./2020/CVE-2020-8635)[Wing FTP Server 6.2.3 - Privilege Escalation]
 - [CVE-2020-8835](./2020/CVE-2020-8835)[Linux Kernel 5.4 or Linux Kernel 5.4]
